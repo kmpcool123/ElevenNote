@@ -1,0 +1,1 @@
+C:\Eleven-Fifty\Blue Badge\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csprojAssemblyReference.cache
